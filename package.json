@@ -2,7 +2,11 @@
   "name": "ecom-frontend",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://bankush014-web.github.io/ecom-frontend/",
+=======
+  "homepage": "https://bankush014-web.github.io/ecom-frontend",
+>>>>>>> 142c7ef154639ac156b9ae9de582db21f8850212
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
@@ -13,7 +17,11 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+<<<<<<< HEAD
 "scripts": {
+=======
+  "scripts": {
+>>>>>>> 142c7ef154639ac156b9ae9de582db21f8850212
   "start": "react-scripts start",
   "build": "react-scripts build",
   "test": "react-scripts test",
